@@ -1,0 +1,22 @@
+Parameter settings:
+epoch : 10
+batch_size : 16
+learning_rate : 0.0001
+weight_decay : 0.0005
+Model result:
+Accuracy : 83.1818
+W-Recall : 0.832
+W-Precision : 0.859
+W-F1 : 0.835
+Confusion Matrix :
+[[13  0  0  0  1  0  0  1  0  1  0]
+ [ 0 18  0  0  0  0  0  0  0  0  0]
+ [ 0  0 19  0  0  0  0  0  0  6  0]
+ [ 0  1  1 20  0  0  0  1  2  0  0]
+ [ 7  0  0  0 17  0  5  0  0  0  0]
+ [ 0  0  0  0  0 20  0  0  0  0  0]
+ [ 0  1  0  0  1  0 15  0  1  0  0]
+ [ 0  0  0  0  0  0  0 15  0  0  0]
+ [ 0  0  0  0  0  0  0  0 17  0  0]
+ [ 0  0  0  0  1  0  0  3  0  9  0]
+ [ 0  0  0  0  0  0  0  0  0  4 20]]

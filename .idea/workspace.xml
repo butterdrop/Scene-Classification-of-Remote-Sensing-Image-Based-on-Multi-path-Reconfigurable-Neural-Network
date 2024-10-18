@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="056bec9f-307f-4a47-9e11-1d839bc5b81a" name="更改" comment="third">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResNet-pytorch/pths/BestA.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResNet-pytorch/pths/BestC.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResNet-pytorch/pths/JoinG.pth" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="unknown &lt;butterdrop@163.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;butterdrop&quot;
+  }
+}</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="b826e018-a6cb-4139-adf7-fbbbecba703e" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b826e018-a6cb-4139-adf7-fbbbecba703e" />
+        <option name="url" value="https://github.com/butterdrop/Scene-Classification-of-Remote-Sensing-Image-Based-on-Multi-path-Reconfigurable-Neural-Network.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2mjuXHUQ2vz833CB8BOlFIGhmHI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.BestA.executor": "Run",
+    "Python.BestB.executor": "Run",
+    "Python.BestC.executor": "Run",
+    "Python.ResNet.executor": "Run",
+    "Python._BestA.executor": "Run",
+    "Python._BestB.executor": "Run",
+    "Python._BestC.executor": "Run",
+    "Python._JoinG (1).executor": "Run",
+    "Python._classification.executor": "Run",
+    "Python.collate.executor": "Run",
+    "Python.dataset_create.executor": "Run",
+    "Python.dataset_split.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.pth(read).executor": "Run",
+    "Python.train.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "new-branch",
+    "last_opened_file_path": "C:/Users/Lan/PycharmProjects/Paper",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.editor",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lan\PycharmProjects\Major\ResNet-pytorch\pths" />
+      <recent name="C:\Users\Lan\PycharmProjects\Major\ResNet-pytorch\images\SIRI-WHU_images\train\pond" />
+      <recent name="C:\Users\Lan\PycharmProjects\Major\ResNet-pytorch" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python._JoinG (1)">
+    <configuration name="BestA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Major" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ResNet-pytorch/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ResNet-pytorch/model/BestA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_BestA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Major" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ResNet-pytorch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ResNet-pytorch/_BestA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_BestC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Major" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ResNet-pytorch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ResNet-pytorch/_BestC.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_JoinG (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Major" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ResNet-pytorch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ResNet-pytorch/_JoinG.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_JoinG" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Major" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ResNet-pytorch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Lan\PycharmProjects\Major\ResNet-pytorch\_JoinG.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dataset_create" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Major" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ResNet-pytorch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ResNet-pytorch/dataset_create.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python._JoinG (1)" />
+        <item itemvalue="Python._BestC" />
+        <item itemvalue="Python._BestA" />
+        <item itemvalue="Python.BestA" />
+        <item itemvalue="Python.dataset_create" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c69650fc56ca-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15619.17" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="056bec9f-307f-4a47-9e11-1d839bc5b81a" name="更改" comment="" />
+      <created>1727602344544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727602344544</updated>
+      <workItem from="1727602348084" duration="1718000" />
+      <workItem from="1727636349702" duration="38000" />
+      <workItem from="1727673552289" duration="866000" />
+      <workItem from="1727674934387" duration="5877000" />
+      <workItem from="1727681894946" duration="3967000" />
+      <workItem from="1727685955790" duration="145000" />
+      <workItem from="1727686140601" duration="487000" />
+      <workItem from="1727686641795" duration="402000" />
+      <workItem from="1727687103859" duration="58275000" />
+      <workItem from="1727901803361" duration="12259000" />
+      <workItem from="1727944151107" duration="8756000" />
+      <workItem from="1727955622424" duration="6000" />
+      <workItem from="1727956240295" duration="26295000" />
+      <workItem from="1728071359588" duration="33078000" />
+      <workItem from="1728459782281" duration="10623000" />
+      <workItem from="1728547814319" duration="8273000" />
+      <workItem from="1728558949036" duration="8475000" />
+      <workItem from="1728577301018" duration="863000" />
+      <workItem from="1728632693918" duration="3384000" />
+      <workItem from="1728636923363" duration="31000" />
+      <workItem from="1728637003773" duration="1337000" />
+      <workItem from="1728648068447" duration="648000" />
+      <workItem from="1728648761889" duration="598000" />
+      <workItem from="1728707249969" duration="8337000" />
+      <workItem from="1728727220137" duration="10181000" />
+      <workItem from="1728810859937" duration="6521000" />
+      <workItem from="1728832053746" duration="596000" />
+      <workItem from="1728836319844" duration="2000" />
+      <workItem from="1728837057521" duration="40904000" />
+      <workItem from="1729078780276" duration="24914000" />
+      <workItem from="1729114741009" duration="14401000" />
+      <workItem from="1729183975962" duration="4116000" />
+      <workItem from="1729191237995" duration="4697000" />
+      <workItem from="1729196651023" duration="15000" />
+      <workItem from="1729197585041" duration="4903000" />
+      <workItem from="1729202575469" duration="1014000" />
+      <workItem from="1729204186847" duration="5389000" />
+    </task>
+    <task id="LOCAL-00001" summary="third">
+      <option name="closed" value="true" />
+      <created>1729206005523</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729206005523</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/ResNet-pytorch" />
+    </ignored-roots>
+    <MESSAGE value="third" />
+    <option name="LAST_COMMIT_MESSAGE" value="third" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Major$main.coverage" NAME="main 覆盖结果" MODIFIED="1728467056432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ResNet-pytorch" />
+    <SUITE FILE_PATH="coverage/Major$_BestB.coverage" NAME="_BestB 覆盖结果" MODIFIED="1729101513121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ResNet-pytorch" />
+    <SUITE FILE_PATH="coverage/Major$BestB.coverage" NAME="BestB 覆盖结果" MODIFIED="1727687176406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ResNet-pytorch/model" />
+    <SUITE FILE_PATH="coverage/Major$collate.coverage" NAME="collate 覆盖结果" MODIFIED="1727848183456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/anaconda3/envs/pythonProject2/Lib/site-packages/torch/utils/data/_utils" />
+    <SUITE FILE_PATH="coverage/Major$_BestC.coverage" NAME="_BestC 覆盖结果" MODIFIED="1729191251062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ResNet-pytorch" />
+    <SUITE FILE_PATH="coverage/Major$ResNet.coverage" NAME="ResNet 覆盖结果" MODIFIED="1727684644053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ResNet-pytorch/model" />
+    <SUITE FILE_PATH="coverage/Major$train.coverage" NAME="train 覆盖结果" MODIFIED="1727848732721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ResNet-pytorch" />
+    <SUITE FILE_PATH="coverage/Major$dataset_create.coverage" NAME="dataset_create 覆盖结果" MODIFIED="1729120704486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ResNet-pytorch" />
+    <SUITE FILE_PATH="coverage/Major$_JoinG__1_.coverage" NAME="_JoinG (1) 覆盖结果" MODIFIED="1729204224094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ResNet-pytorch" />
+    <SUITE FILE_PATH="coverage/Major$BestA.coverage" NAME="BestA 覆盖结果" MODIFIED="1729125069720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ResNet-pytorch/model" />
+    <SUITE FILE_PATH="coverage/Major$BestC.coverage" NAME="BestC 覆盖结果" MODIFIED="1728637121866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ResNet-pytorch/model" />
+    <SUITE FILE_PATH="coverage/Major$pth_read_.coverage" NAME="pth(read) 覆盖结果" MODIFIED="1727911238852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ResNet-pytorch" />
+    <SUITE FILE_PATH="coverage/Major$dataset_split.coverage" NAME="dataset_split 覆盖结果" MODIFIED="1728716585711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ResNet-pytorch" />
+    <SUITE FILE_PATH="coverage/Major$_BestA.coverage" NAME="_BestA 覆盖结果" MODIFIED="1729152358024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ResNet-pytorch" />
+    <SUITE FILE_PATH="coverage/Major$_classification.coverage" NAME="_classification 覆盖结果" MODIFIED="1727861761877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/anaconda3/envs/pythonProject2/Lib/site-packages/sklearn/metrics" />
+  </component>
+</project>
