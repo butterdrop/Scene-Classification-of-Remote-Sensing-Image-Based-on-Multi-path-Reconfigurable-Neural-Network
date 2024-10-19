@@ -1,1 +1,12 @@
-
+Parameter settings:
+epoch : 
+batch_size : 
+learning_rate 
+weight_decay : 
+Model result:
+Accuracy : 
+W-Recall :
+W-Precision : 
+W-F1 : 
+Confusion Matrix :
+[[]]
