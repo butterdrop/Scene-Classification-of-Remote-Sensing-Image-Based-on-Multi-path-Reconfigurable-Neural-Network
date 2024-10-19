@@ -23,7 +23,7 @@ if __name__ == "__main__":
     cuda = True
     logs_dir = 'logs'
     dp = False
-    input_shape = [200, 200]
+    input_shape = [256, 256]
     epoch = 10
     lr = 0.0001
     momentum = 0.9
@@ -83,7 +83,7 @@ if __name__ == "__main__":
 
 
     transform_train = transforms.Compose([
-        transforms.Resize(200),  # 先四周填充0，再把图像随机裁剪成128x128
+        #transforms.Resize(200),  # 先四周填充0，再把图像随机裁剪成128x128
         transforms.RandomHorizontalFlip(),  # 图像一半的概率翻转，一半的概率不翻转
         transforms.RandomRotation(180),
         transforms.ToTensor(),
@@ -93,7 +93,7 @@ if __name__ == "__main__":
     ])
 
     transform_test = transforms.Compose([
-        transforms.Resize(200),  # 先四周填充0，再把图像随机裁剪成128x128
+        #transforms.Resize(200),  # 先四周填充0，再把图像随机裁剪成128x128
         transforms.RandomHorizontalFlip(),  # 图像一半的概率翻转，一半的概率不翻转
         transforms.RandomRotation(180),
         transforms.ToTensor(),
