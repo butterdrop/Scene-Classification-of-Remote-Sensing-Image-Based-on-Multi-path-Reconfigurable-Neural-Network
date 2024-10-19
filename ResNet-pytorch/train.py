@@ -22,7 +22,7 @@ def train_epoch(model, train_loader, criterion, optimizer, e, epoch, device):
         optimizer.step()       
 
         # calculate the accuracy
-        acc_batch = accuracy(batch_prediction, batch_label, topk=(1,3))
+        acc_batch = accuracy(batch_prediction, batch_label, topk=(1,2))
         n = batch_data.shape[0]
 
         # update the loss and the accuracy 
