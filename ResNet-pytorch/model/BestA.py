@@ -43,7 +43,6 @@ class BasicBlock(nn.Module):
         return out
 
 
-# 定义ResNet50/101/152的残差结构，为1x1+3x3+1x1的卷积
 class Bottleneck(nn.Module):
     # expansion是指在每个小残差块内，减小尺度增加维度的倍数，如64*4=256
     # Bottleneck层输出通道是输入的4倍
@@ -174,7 +173,6 @@ class ResNet(nn.Module):
     def _connect_layer(self):
         conv_layer3 = nn.Sequential(
             nn.Conv2d(128, 256, kernel_size=1, stride=2, padding=1, bias=False),
-            #nn.Conv2d(128, 256, kernel_size=1, stride=2 ,bias=False),
             nn.BatchNorm2d(256),
             nn.ReLU(inplace=True)
         )
