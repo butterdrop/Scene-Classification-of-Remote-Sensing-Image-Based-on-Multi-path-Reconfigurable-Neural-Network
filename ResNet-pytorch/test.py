@@ -19,7 +19,7 @@ def test_epoch(model, test_loader, device):
             batch_prediction = model(batch_data)
 
             # calculate the accuracy
-            acc_batch = accuracy(batch_prediction, batch_label, topk=(1,3))
+            acc_batch = accuracy(batch_prediction, batch_label, topk=(1,2))
             n = batch_data.shape[0]
             batch_prediction = torch.argmax(batch_prediction, dim=1)
 
@@ -31,7 +31,7 @@ def test_epoch(model, test_loader, device):
             label = np.append(label, batch_label.data.cpu().numpy())
 
             loop.set_description(f'Test Epoch')
-            loop.set_postfix({"test_accuracy1": str(round(acc1.average.item(), 3)) + "%", "test_accuracy3": str(round(acc3.average.item(), 3)) + "%"})
+            loop.set_postfix({"test_accuracy1": str(round(acc1.average.item(), 3)) + "%", "test_accuracy3": str(round(acc1.average.item(), 3)) + "%"})
         
     return acc1.average.item(), acc3.average.item(), prediction, label
 #-------------------------------------------------------------------------------
