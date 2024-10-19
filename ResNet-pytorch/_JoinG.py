@@ -83,7 +83,7 @@ if __name__ == "__main__":
 
 
     transform_train = transforms.Compose([
-        transforms.RandomCrop(200),  # 先四周填充0，再把图像随机裁剪成128x128
+        #transforms.RandomCrop(200),  # 先四周填充0，再把图像随机裁剪成128x128
         transforms.RandomHorizontalFlip(),  # 图像一半的概率翻转，一半的概率不翻转
         transforms.RandomRotation(180),
         transforms.ToTensor(),
@@ -93,7 +93,7 @@ if __name__ == "__main__":
     ])
 
     transform_test = transforms.Compose([
-        transforms.RandomCrop(200),  # 先四周填充0，再把图像随机裁剪成128x128
+        #transforms.RandomCrop(200),  # 先四周填充0，再把图像随机裁剪成128x128
         transforms.RandomHorizontalFlip(),  # 图像一半的概率翻转，一半的概率不翻转
         transforms.RandomRotation(180),
         transforms.ToTensor(),
@@ -132,6 +132,6 @@ if __name__ == "__main__":
 
     test_CM, test_weighted_recall, test_weighted_precision, test_weighted_f1 = output_metrics(test_label, test_prediction)
     #print("Test Result  =>  Accuracy: {:.2f}%| W-Recall: {:.4f} | W-Precision: {:.4f} | W-F1: {:.4f}".format(test_acc1, test_weighted_recall, test_weighted_precision, test_weighted_f1))
-    store_result(logs_folder,test_acc3, test_weighted_recall, test_weighted_precision, test_weighted_f1, test_CM, epoch, batch_size, lr, weight_decay)
+    store_result(logs_folder,test_acc1, test_weighted_recall, test_weighted_precision, test_weighted_f1, test_CM, epoch, batch_size, lr, weight_decay)
     print("save test result successfully")
     print("===============================================================================")
