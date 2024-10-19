@@ -128,7 +128,7 @@ if __name__ == "__main__":
 
 
     test_CM, test_weighted_recall, test_weighted_precision, test_weighted_f1 = output_metrics(test_label, test_prediction)
-    print("Test Result  =>  Accuracy: {:.2f}%| W-Recall: {:.4f} | W-Precision: {:.4f} | W-F1: {:.4f}".format(test_acc3, test_weighted_recall, test_weighted_precision, test_weighted_f1))
-    store_result(logs_folder,test_acc3, test_weighted_recall, test_weighted_precision, test_weighted_f1, test_CM, epoch, batch_size, lr, weight_decay)
+    print("Test Result  =>  Accuracy: {:.2f}%| W-Recall: {:.4f} | W-Precision: {:.4f} | W-F1: {:.4f}".format(test_acc1, test_weighted_recall, test_weighted_precision, test_weighted_f1))
+    store_result(logs_folder,test_acc1, test_weighted_recall, test_weighted_precision, test_weighted_f1, test_CM, epoch, batch_size, lr, weight_decay)
     print("save test result successfully")
     print("===============================================================================")
